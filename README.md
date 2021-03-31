@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Real-Luke-James
+- 👀 I’m interested in C#, C, and C++
+- 🌱 I’m currently learning C C#, C++, and JS
