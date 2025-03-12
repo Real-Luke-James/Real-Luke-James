@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Luke-James&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Real-Luke-James
-- 👀 I’m interested in C#, C, and C++
-- 🌱 I’m currently learning C C#, C++, and JS
+- 👀 I’m interested in C# and Java
+- 🌱 I’m currently learning Java
